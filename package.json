@@ -23,12 +23,12 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@types/express-session": "1.17.0",
+    "@types/express-session": "1.17.3",
     "@types/graphql": "14.5.0",
     "@types/joi": "14.3.4",
     "@types/keycloak-connect": "4.5.4",
-    "@types/node": "10.17.24",
-    "@types/pino": "6.0.1",
+    "@types/node": "10.17.60",
+    "@types/pino": "6.3.8",
     "ava": "3.8.2",
     "coveralls": "3.1.0",
     "graphql": "14.6.0",
@@ -37,8 +37,8 @@
     "standard": "14.3.4",
     "ts-node": "8.10.2",
     "tslint": "5.20.1",
-    "typedoc": "0.17.7",
-    "typescript": "3.9.5"
+    "typedoc": "0.20.36",
+    "typescript": "3.9.9"
   },
   "nyc": {
     "extension": [
